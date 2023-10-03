@@ -1,6 +1,6 @@
 # SyenaKeyboards
 
-![](/resources/syenakeyboards.png)
+![](/resources/jpg/syenakeyboards.png)
 
 Mechanical Keyboards manufactured by Syenasweta a.k.a. Nashrullah Ali Fauzi.
 
